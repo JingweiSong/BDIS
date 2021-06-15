@@ -25,14 +25,14 @@ The code depends on Eigen3 and OpenCV.
 2. Run Main.m in the matlab folder for visualization.      
       
 
-Citation:
-Jingwei Song, Qiuchen Zhu, Jianyu Lin, Maani Ghaffari "Bayesian dense inverse searching algorithm for real-time stereo matching in minimally invasive surgery." arXiv preprint arXiv:2106.07136. https://arxiv.org/abs/2106.07136
-@article{song2021bayesian,
-  title={Nonparametric Continuous Sensor Registration},
-  author={Song, Jingwei and Zhu, Qiuchen and Lin, Jianyu and Ghaffari, Maani},
-  journal={arXiv preprint arXiv:2106.07136},
-  year={2021}
-}
+Citation:      
+Jingwei Song, Qiuchen Zhu, Jianyu Lin, Maani Ghaffari "Bayesian dense inverse searching algorithm for real-time stereo matching in minimally invasive surgery." arXiv preprint arXiv:2106.07136. https://arxiv.org/abs/2106.07136      
+@article{song2021bayesian,      
+  title={Nonparametric Continuous Sensor Registration},      
+  author={Song, Jingwei and Zhu, Qiuchen and Lin, Jianyu and Ghaffari, Maani},      
+  journal={arXiv preprint arXiv:2106.07136},      
+  year={2021}      
+}      
 
 
 ## LICENCE CONDITIONS ##
