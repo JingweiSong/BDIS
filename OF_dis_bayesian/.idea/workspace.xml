@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="FastPatchOF" targetName="run_DE_INT" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32965d4e-2b4f-431a-ac2e-7a88afe163f7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1n3EZp48YIuuJZflehZSrsbQy1S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_DE_INT" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="$USER_HOME$/dataset/hamlyn/31/images_rectified 1 output 5 1 12 12 0.05 0.95 0 10 0.60 0 1 0 2 0.25 2 1" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FastPatchOF" TARGET_NAME="run_DE_INT" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FastPatchOF" RUN_TARGET_NAME="run_DE_INT">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32965d4e-2b4f-431a-ac2e-7a88afe163f7" name="Default Changelist" comment="" />
+      <created>1610610442314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610610442314</updated>
+      <workItem from="1610610450025" duration="50000" />
+      <workItem from="1612340273431" duration="9864000" />
+      <workItem from="1612415612120" duration="15539000" />
+      <workItem from="1612487423107" duration="5828000" />
+      <workItem from="1612502257261" duration="13788000" />
+      <workItem from="1612518653893" duration="3643000" />
+      <workItem from="1612528367475" duration="2375000" />
+      <workItem from="1612579703304" duration="1564000" />
+      <workItem from="1612589006759" duration="6410000" />
+      <workItem from="1612603208213" duration="2328000" />
+      <workItem from="1613806157190" duration="127000" />
+      <workItem from="1613973465584" duration="3255000" />
+      <workItem from="1613984916415" duration="290000" />
+      <workItem from="1614336555419" duration="433000" />
+      <workItem from="1614409111418" duration="3714000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="pc" />
+        <watch expression="pat[6]" language="ObjectiveC" />
+        <watch expression="img_ao_dy_fmat_pyr[i].at&lt;float&gt;(0,0)" language="ObjectiveC" />
+        <watch expression="pat[i]" />
+        <watch expression="img_ao_fmat_pyr[0].at&lt;float&gt;(20,20)" language="ObjectiveC" />
+        <watch expression="op-&gt;novals" language="ObjectiveC" />
+        <watch expression="(*fl)" />
+        <watch expression="op-&gt;novals" />
+        <watch expression="*bayesian_prob" language="ObjectiveC" />
+        <watch expression="op-&gt;p_samp_s/2" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+</project>
