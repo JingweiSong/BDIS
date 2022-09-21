@@ -1,6 +1,8 @@
-# Bayesian dense inverse searching algorithm for real-time stereo matching in minimally invasive surgery #
+# [MICCAI 2022 oral]Bayesian dense inverse searching algorithm for real-time stereo matching in minimally invasive surgery #
 
-This is the CPU level real-time stereo software for minimally invasive surgery.
+This is the CPU level real-time stereo software for minimally invasive surgery. The work has been demonstrated in MICCAI 2022. For demos and talk please refer to :    
+https://youtu.be/MTurBOUDdB0    
+https://youtu.be/k88vsRg9LrU    
 
  
   
