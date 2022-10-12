@@ -1,5 +1,6 @@
 News:  
-The journal version has been accepted by IEEE Transaction on Robotics (https://arxiv.org/abs/2205.03133). Please use the new version with faster speed and higher accuracy:
+The journal version has been accepted by IEEE Transaction on Robotics (https://arxiv.org/abs/2205.03133). 
+Please use the new version with faster speed and higher accuracy:
 https://github.com/JingweiSong/BDIS-v2
 
 # [MICCAI 2022 oral]Bayesian dense inverse searching algorithm for real-time stereo matching in minimally invasive surgery #
